@@ -5,7 +5,7 @@
 This is a Python application that receives and visualizes IMU (6-axis) and electromyography (EMG) data at 1000 Hz over BLE from the M5StickC Plus2.
 
 About Hardware
-https://www.hackster.io/yoshizawa555res/squatscope-3d837a#schematics
+https://www.hackster.io/yoshizawa555res/squatscope-3d837a
 
 ## 🔧 Environment
 
