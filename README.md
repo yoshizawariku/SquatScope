@@ -1,6 +1,6 @@
 [日本語](README-JP.md) | [English](README.md)
 
-# 05_pc-app - IMU+EMG BLE Data Receiver
+# SquatScope - IMU+EMG BLE Data Receiver
 
 This is a Python application that receives and visualizes IMU (6-axis) and electromyography (EMG) data at 1000 Hz over BLE from the M5StickC Plus2.
 
