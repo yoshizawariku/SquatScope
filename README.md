@@ -9,7 +9,7 @@ This is a Python application that receives and visualizes IMU (6-axis) and elect
 - **Python version**: 3.9.12
 - **Environment**: virtual environment (venv)
 
-## 📦 Installed packages
+## 📦 Packages
 
 ### BLE
 - `bleak` (1.1.0) - cross-platform BLE library
