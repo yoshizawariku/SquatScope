@@ -1,0 +1,26 @@
+{
+    "app_name": "M5 Sensor Data Visualizer",
+    "version": "1.0.0",
+    "description": "An application to visualize IMU and EMG data from M5StickC Plus2.",
+    "theme": "dark",
+    "data_buffer_duration": 60,
+    "ble_device_name": "M5-EMG-Sensor",
+    "sampling_rate": 1000,
+    "graph_settings": {
+        "smooth": true,
+        "dynamic_canvas": true
+    },
+    "ui": {
+        "main_window": {
+            "title": "M5 Sensor Data",
+            "size": {
+                "width": 800,
+                "height": 600
+            }
+        }
+    },
+    "logging": {
+        "enabled": true,
+        "log_file": "data/logs/app.log"
+    }
+}

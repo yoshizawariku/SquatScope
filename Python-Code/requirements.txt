@@ -1,0 +1,26 @@
+# BLE communication
+bleak>=0.22.0
+
+# Numerical computation and data processing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.10.5
+
+# macOS BLE support (required only on macOS)
+pyobjc-core>=10.0.0; sys_platform == "darwin"
+pyobjc-framework-Cocoa>=10.0.0; sys_platform == "darwin"
+pyobjc-framework-CoreBluetooth>=10.0.0; sys_platform == "darwin"
+pyobjc-framework-libdispatch>=10.0.0; sys_platform == "darwin"
+
+# Serial communication (for debugging)
+pyserial>=3.5
+
+# Other utilities
+psutil>=5.8.0
+python-dateutil>=2.8.0
+
+# Asynchronous processing
+async-timeout>=4.0.0
+
+# Timezone handling
+pytz

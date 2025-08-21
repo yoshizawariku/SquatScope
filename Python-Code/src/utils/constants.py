@@ -1,0 +1,24 @@
+# Constants for the application
+
+# UI settings
+DARK_MODE = True
+WINDOW_TITLE = "M5 Sensor Data Viewer"
+WINDOW_SIZE = (800, 600)
+
+# BLE settings
+BLE_SERVICE_UUID = "12345678-1234-1234-1234-123456789abc"
+BLE_CHARACTERISTIC_UUID = "87654321-4321-4321-4321-cba987654321"
+
+# Data settings
+DATA_BUFFER_SIZE = 60  # seconds
+SAMPLE_RATE = 1000  # Hz
+
+# Colors
+COLOR_BACKGROUND = "#1E1E1E"
+COLOR_TEXT = "#FFFFFF"
+COLOR_GRAPH_LINE = "#FF5733"
+COLOR_GRAPH_FILL = "#FFB3B3"
+
+# File paths
+DATA_RECORDINGS_PATH = "data/recordings/"
+ICON_PATH = "assets/icons/"
