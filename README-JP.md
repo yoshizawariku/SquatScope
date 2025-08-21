@@ -4,6 +4,9 @@
 
 M5StickC Plus2からのIMU（6軸）および筋電位データを1000HzでBLE受信・可視化するPythonアプリケーションです。
 
+ハードウエアに関してはこちらから
+https://www.hackster.io/yoshizawa555res/squatscope-3d837a#schematics
+
 ## 🔧 環境情報
 
 - **Python バージョン**: 3.9.12
